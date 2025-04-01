@@ -173,3 +173,24 @@ body {
 }
 
 }
+
+#footer {
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+}
+
+.socials {
+  display: flex;
+}
+
+.socials i {
+  margin: 0 20px;
+  font-size: 1.7rem;
+  transition: all 500ms ease;
+}
+
+.socials i:hover {
+  font-size: 2.7rem;
+  color: rgb(255, 208, 0);
+  cursor: pointer;
+}
