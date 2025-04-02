@@ -190,6 +190,7 @@ body {
 }
 
 .socials a {
+  text-decoration: none;
   margin: 0 20px;
   font-size: 1.7rem;
   transition: all 500ms ease;
