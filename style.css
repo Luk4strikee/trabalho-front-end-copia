@@ -179,17 +179,17 @@ body {
   color: white;
 }
 
-.socials {
+#footer .socials {
   display: flex;
 }
 
-.socials i {
+#footer .socials i {
   margin: 0 20px;
   font-size: 1.7rem;
   transition: all 500ms ease;
 }
 
-.socials a {
+#footer .socials a {
   color: white;
   text-decoration: none;
   margin: 0 20px;
@@ -197,13 +197,13 @@ body {
   transition: all 500ms ease;
 }
 
-.socials a:hover {
+#footer .socials a:hover {
   color: rgb(196, 4, 4);
   font-size: 2.7rem;
   cursor: pointer;
 }
 
-.socials i:hover {
+#footer .socials i:hover {
   font-size: 2.7rem;
   color: rgb(196, 4, 4);
   cursor: pointer;
